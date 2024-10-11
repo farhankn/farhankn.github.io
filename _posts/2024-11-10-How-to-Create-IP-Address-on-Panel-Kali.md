@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Burp Extenders Demystified"
-description: Introduction to my blog
-date:   2020-05-01 13:03:36 +0530
-categories: burpsuite
+title:  "Add IP address to the Panel in Kali"
+description: How to add IP address to your menu bar on Kali
+date:   2024-10-11 13:03:36 +0530
+categories: kali
 ---
 
 
 
 
-### How to add TryHackMe IP address to your menu bar on Kali
+### How to add IP address to your menu bar on Kali
 
 
 
